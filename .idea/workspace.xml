@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ceb6d1f-3b59-4ac6-a6db-660af933e35e" name="Default Changelist" comment="Se removió la etiqueta obsoleta &lt;center&gt;">
-      <change afterPath="$PROJECT_DIR$/Parcial.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CDP_Proyecto" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,6 +78,10 @@
       <workItem from="1615000748968" duration="4368000" />
       <workItem from="1615339732259" duration="5357000" />
       <workItem from="1615345788246" duration="2905000" />
+      <workItem from="1615960098194" duration="1026000" />
+      <workItem from="1618215242596" duration="178000" />
+      <workItem from="1618215468204" duration="403000" />
+      <workItem from="1618215888505" duration="724000" />
     </task>
     <task id="LOCAL-00001" summary="Se agregó el Laboratorio 2, Sintaxis, listas y tuplas.">
       <created>1613903063350</created>
@@ -108,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615004475777</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Laboratorio4">
+      <created>1615960366617</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615960366617</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Laboratorio4 2">
+      <created>1615960524733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615960524733</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +149,8 @@
     <MESSAGE value="Ejecucion de ejemplos." />
     <MESSAGE value="Se removió la etiqueta obsoleta &lt;center&gt;" />
     <MESSAGE value="Laboratorio 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Laboratorio 3" />
+    <MESSAGE value="Laboratorio4" />
+    <MESSAGE value="Laboratorio4 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laboratorio4 2" />
   </component>
 </project>
